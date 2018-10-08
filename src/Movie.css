@@ -1,0 +1,6 @@
+.Movie{
+    display: flex;
+}
+.Poster{
+    height: 50%;
+}
